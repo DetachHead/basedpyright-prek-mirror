@@ -1,11 +1,6 @@
 [project]
-name = "black-pre-commit-mirror"
+name = "basedpyright-pre-commit-mirror"
 version = "0.1.0"
 dependencies = [
-    "black==24.4.2",
-]
-
-[project.optional-dependencies]
-jupyter = [
-    "black[jupyter]",
+    "basedpyright==1.13.0",
 ]
