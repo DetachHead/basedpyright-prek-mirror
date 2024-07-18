@@ -2,5 +2,5 @@
 name = "basedpyright-pre-commit-mirror"
 version = "0.1.0"
 dependencies = [
-    "basedpyright==1.13.3",
+    "basedpyright==1.14.0",
 ]
